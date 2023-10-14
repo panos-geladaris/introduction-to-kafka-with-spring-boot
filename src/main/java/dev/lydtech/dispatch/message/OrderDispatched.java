@@ -15,4 +15,7 @@ public class OrderDispatched {
 
     UUID orderId;
 
+    UUID processedById;
+
+    String notes;
 }
